@@ -1,2 +1,2 @@
-"# My First Git Project" 
-"## My Project" 
+# My First Git Project 
+## My Project 
